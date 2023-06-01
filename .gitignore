@@ -1,0 +1,18 @@
+tmp/
+
+*-bak
+*.bck
+
+fp-info-cache
+
+# Freerouting related files
+*.dsn
+*.rules
+*.bin
+
+*.pyc
+
+*.zip
+
+*.kicad_prl
+*-backups/
